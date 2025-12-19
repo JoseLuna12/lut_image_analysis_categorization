@@ -62,6 +62,12 @@ def _parse_args() -> argparse.Namespace:
         default=None,
         help="Max output dimension (width/height) for resizing",
     )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=4,
+        help="Number of parallel workers for batch mode",
+    )
     return parser.parse_args()
 
 
@@ -104,6 +110,7 @@ def _run_batch(
     max_images: int | None,
     seed: float | None,
     max_size: int | None,
+    max_workers: int,
 ) -> None:
     images = get_images_from_folder(image_folder, max_images or 10**9, seed=seed)
     if not images:
@@ -112,6 +119,7 @@ def _run_batch(
         image_paths=images,
         lut_paths=luts,
         output_dir=output_dir,
+        max_workers=max_workers,
         max_size=max_size,
     )
     print(json.dumps(results, indent=2))
@@ -137,6 +145,7 @@ def main() -> None:
             max_images=args.max_images,
             seed=args.seed,
             max_size=args.max_size,
+            max_workers=args.max_workers,
         )
         return
 

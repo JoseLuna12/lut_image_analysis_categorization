@@ -11,7 +11,7 @@ from PIL import Image
 from pydantic import BaseModel
 
 # --- Configuration ---
-BASE_DIR = Path(__file__).resolve().parents[2]
+BASE_DIR = Path(__file__).resolve().parents[1]
 if str(BASE_DIR) not in sys.path:
     sys.path.append(str(BASE_DIR))
 
