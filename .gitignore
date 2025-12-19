@@ -1,0 +1,45 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# Node / frontend
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+.parcel-cache/
+.turbo/
+.cache/
+dist/
+
+# Bun
+bun.lockb
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Images and data
+*.jpg
+*.JPG
+
+# Folders starting with underscore (raw datasets, etc.)
+_*/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Misc
+.env
+.env.*

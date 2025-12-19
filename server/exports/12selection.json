@@ -1,0 +1,157 @@
+{
+  "image": "aiony-haust-3TLl_97HNJo-unsplash.jpg",
+  "selection": [
+    {
+      "label": "arrakis_bmdfilm__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/arrakis_bmdfilm__lut3d_33.cube"
+    },
+    {
+      "label": "arrakis_flog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/arrakis_flog__lut3d_33.cube"
+    },
+    {
+      "label": "arrakis_vlog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/arrakis_vlog__lut3d_33.cube"
+    },
+    {
+      "label": "arrival__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/arrival__lut3d_33.cube"
+    },
+    {
+      "label": "autumn_rich__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/autumn_rich__lut3d_33.cube"
+    },
+    {
+      "label": "autumn_dull__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/autumn_dull__lut3d_33.cube"
+    },
+    {
+      "label": "bat_vlog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/bat_vlog__lut3d_33.cube"
+    },
+    {
+      "label": "bright__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/bright__lut3d_33.cube"
+    },
+    {
+      "label": "bw10__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/bw10__lut3d_33.cube"
+    },
+    {
+      "label": "bw1__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/bw1__lut3d_33.cube"
+    },
+    {
+      "label": "bw9__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/bw9__lut3d_33.cube"
+    },
+    {
+      "label": "bw_faded__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/bw_faded__lut3d_33.cube"
+    },
+    {
+      "label": "celluloid_01_fu_low__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/celluloid_01_fu_low__lut3d_33.cube"
+    },
+    {
+      "label": "cliff_flog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/cliff_flog__lut3d_33.cube"
+    },
+    {
+      "label": "cliff_nlog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/cliff_nlog__lut3d_33.cube"
+    },
+    {
+      "label": "cliff_vlog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/cliff_vlog__lut3d_33.cube"
+    },
+    {
+      "label": "darkandsomber__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/darkandsomber__lut3d_33.cube"
+    },
+    {
+      "label": "guardians_bmdfilm__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/guardians_bmdfilm__lut3d_33.cube"
+    },
+    {
+      "label": "hardboost__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/hardboost__lut3d_33.cube"
+    },
+    {
+      "label": "guardians_nlog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/guardians_nlog__lut3d_33.cube"
+    },
+    {
+      "label": "licorice_flog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/licorice_flog__lut3d_33.cube"
+    },
+    {
+      "label": "licorice_nlog__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/licorice_nlog__lut3d_33.cube"
+    },
+    {
+      "label": "lushgreen__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/lushgreen__lut3d_33.cube"
+    },
+    {
+      "label": "magichour__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/magichour__lut3d_33.cube"
+    },
+    {
+      "label": "naturalboost__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/naturalboost__lut3d_33.cube"
+    },
+    {
+      "label": "orange_teal_faded__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/orange_teal_faded__lut3d_33.cube"
+    },
+    {
+      "label": "orangeandblue__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/orangeandblue__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_35mm_portrait__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_35mm_portrait__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_gold_200__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_gold_200__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_fuji_astia__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_fuji_astia__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_moody_stock__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_moody_stock__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_pastel_morning__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_pastel_morning__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_portra_400__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_portra_400__lut3d_33.cube"
+    },
+    {
+      "label": "presetpro_warm_tones__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/presetpro_warm_tones__lut3d_33.cube"
+    },
+    {
+      "label": "sam_kolder__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/sam_kolder__lut3d_33.cube"
+    },
+    {
+      "label": "sample_lut_1_rizal_final__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/sample_lut_1_rizal_final__lut3d_33.cube"
+    },
+    {
+      "label": "vintage__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/vintage__lut3d_33.cube"
+    },
+    {
+      "label": "waves__lut3d_33.cube",
+      "path": "/Users/joseluna/camera_apps_project/lut_ML_model/ml_luts/waves__lut3d_33.cube"
+    }
+  ]
+}
